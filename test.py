@@ -8,15 +8,8 @@ y = "this is my second commit"
 
 z = "this is my third commit"
 
-za = "this is my fourth commit"
-
-<<<<<<< HEAD
-=======
 a = "This is a branch modification"
 b = "This is a second branch modification"
-
-
->>>>>>> branch1
 
 
 
